@@ -2,6 +2,8 @@
 
 This is a React web app where you can specify a timer for your own Pomodoro. After you specify the amount of minutes, a timer will countdown on the screen until zero is reached.
 
+The site can be accessed here: https://reactpomodoro.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
